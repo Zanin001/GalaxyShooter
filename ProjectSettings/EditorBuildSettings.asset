@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: Assets/__DELETED_GUID_Trash/977df3915f28a5246b0616d54033e36d
+    guid: 977df3915f28a5246b0616d54033e36d
+  - enabled: 1
+    path: Assets/2D Galaxy Assets/Game/Scenes/Main_Menu.unity
+    guid: 4720b80aee3b82944858bebcc3a39489
+  - enabled: 1
+    path: Assets/2D Galaxy Assets/Game/Scenes/Co-Op.unity
+    guid: bdd1bad8923c2ee46ad1709bba11757b
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 1
+    path: Assets/2D Galaxy Assets/Game/Scenes/Single_Player.unity
+    guid: 22c8af58407ead746884c96237f7fd96
+  - enabled: 1
+    path: Assets/2D Galaxy Assets/Game/Scenes/Controls_MP.unity
+    guid: 5a38eb2c7d92a5e488ae9509bcbcbc69
+  m_configObjects: {}

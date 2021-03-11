@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 8f2f91e6c53e5d34082eb40030379ee3
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - _Shield: {instanceID: 0}
+  - _ExplosionPrefab: {instanceID: 0}
+  - _TripleShootPrefab: {fileID: 4933394360483249031, guid: e42c867b15bc7a047889e3d2632083b4,
+      type: 3}
+  - _lazerPrefab: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
